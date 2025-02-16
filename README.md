@@ -1,4 +1,4 @@
-# 📖 Guide: Using GitHub Project for User Management Module (MERN Stack)
+# 📖 Guide: Mastering GitHub Project for Team-Based Development at ESPRIT
 
 ## 🔹 Introduction
 Welcome to the **User Management Module** development guide! This repository serves as a **GitHub Project Template** to help you manage and track tasks while building the sprints (module) using the **MERN stack**.

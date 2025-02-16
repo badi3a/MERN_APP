@@ -1,28 +1,36 @@
-# 📖 Guide: Mastering GitHub Project for Team-Based Development at ESPRIT
+# 🚀 Mastering GitHub Project for Team Collaboration
 
 ## 🔹 Introduction
-Welcome to the **User Management Module** development guide! This repository serves as a **GitHub Project Template** to help you manage and track tasks while building the sprints (module) using the **MERN stack**.
 
-### **🎯 What You Will Learn**
-- How to **clone the project template**
-- How to **set up a GitHub Project Board**
-- How to **create, assign, and manage tasks**
-- How to **collaborate using Git, Issues, and Pull Requests**
-- How to **follow a structured Git branching strategy**
+This **GitHub Project Template** is designed for students at **ESPRIT School of Engineering** to improve **team collaboration, task management, and structured development workflows**. It provides a practical guide to using **GitHub Project** effectively while working on a **team-based development module**.
 
-In this repository, you will find:
-✅ A **User Management Module** template  
-✅ A well-defined **GitHub Project Board** structure  
-✅ A **task backlog** for development  
+This initiative helps students:
+
+✅ **Understand project structuring** through sprints, epics, and tasks  
+✅ **Apply industry-standard Git practices** for smooth collaboration  
+✅ **Master GitHub Project Board** for efficient task tracking  
+✅ **Deliver a well-structured, consistent project** with clear workflows  
+
+The example pilot project included in this template focuses on a **User Management Module**, but the structure can be adapted for **any development project**.
 
 ---
 
-## 🚀 1. Set Up Your GitHub Repository  
+## 📌 Key Features of This Template
 
-### **🔹 Step 1: Fork and Clone the Repository**
-1. Navigate to the **GitHub Template Repository** provided.
-2. Click **Fork** (top-right corner) to create a copy in your GitHub account.
-3. Clone it to your local machine:
+- 🔹 **Sprint Planning & Epics** – Organize tasks into clear **sprints** with well-defined epics.  
+- 🔹 **Task Estimation & Assignments** – Assign tasks, estimate effort, and track progress.  
+- 🔹 **Git Branching Strategy** – Follow a structured workflow for **clean and scalable code**.  
+- 🔹 **Collaboration Tools** – Leverage **GitHub Issues, Pull Requests, and Code Reviews**.  
+
+---
+
+## 🚀 How to Use This Template
+
+### **1-Fork & Clone the Repository**
+
+1. Click **Fork** to create a personal copy of this repository.  
+2. Clone it to your local machine:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/your-repo.git
-📖 Guide: Using GitHub Project for User Management Module (MERN Stack): 
+   git clone https://github.com/YOUR_USERNAME/project-repo.git
+   cd project-repo
+### Please follow our contribution guidelines for more details: https://medium.com/@badiaabouhdid/mastering-github-project-for-team-based-development-at-esprit-school-of-engineering-092a6bc53dd1

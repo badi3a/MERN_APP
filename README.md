@@ -31,3 +31,7 @@ The example pilot project included in this template focuses on a **User Manageme
 1. Click **project section** to create a personal copy of this repository.
 3. make a copy of the project on your local repository
 ### Please follow our contribution guidelines for more details: https://medium.com/@badiaabouhdid/mastering-github-project-for-team-based-development-at-esprit-school-of-engineering-092a6bc53dd1
+## 🎓 Acknowledgment
+This project is part of the academic training provided by **ESPRIT School of Engineering**, aiming to equip students with industry-relevant skills in modern software development.
+![esprit]([path/to/image.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKk7djMT6EIZ2LnmYPBmrbZht3-XTSVNO9xQ&s))
+---  

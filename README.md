@@ -28,9 +28,6 @@ The example pilot project included in this template focuses on a **User Manageme
 
 ### **1-Fork & Clone the Repository**
 
-1. Click **Fork** to create a personal copy of this repository.  
-2. Clone it to your local machine:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/project-repo.git
-   cd project-repo
+1. Click **project section** to create a personal copy of this repository.
+3. make a copy of the project on your local repository
 ### Please follow our contribution guidelines for more details: https://medium.com/@badiaabouhdid/mastering-github-project-for-team-based-development-at-esprit-school-of-engineering-092a6bc53dd1
